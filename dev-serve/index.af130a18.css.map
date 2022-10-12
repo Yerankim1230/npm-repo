@@ -1,0 +1,1 @@
+{"mappings":"AAEA","sources":["src/style.scss","src/_variables.scss"],"sourcesContent":["@use 'variables';\n\nh1{\n    color:variables.$primary-color;\n}",null],"names":[],"version":3,"file":"index.af130a18.css.map","sourceRoot":"/__parcel_source_root/"}
