@@ -1,0 +1,1 @@
+{"mappings":"ACEA","sources":["index.2d8d9d4b.css","src/style.scss","src/_variables.scss"],"sourcesContent":["h1 {\n  color: purple;\n}\n\n/*# sourceMappingURL=index.2d8d9d4b.css.map */\n","@use 'variables';\n\nh1{\n    color:variables.$primary-color;\n}","$primary-color: purple;\n"],"names":[],"version":3,"file":"index.2d8d9d4b.css.map"}
